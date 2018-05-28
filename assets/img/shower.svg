@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="11px" viewBox="0 0 18 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>shower icon grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="beds/bathrooms/contract-description/moving-date" transform="translate(-44.000000, -6.000000)" stroke="#A7A7A7">
+            <g id="bathrooms" transform="translate(44.000000, 0.000000)">
+                <g id="shower-icon-grey" transform="translate(0.000000, 6.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 0.500000)">
+                        <path d="M0.6,4 L17.4,4" id="Line-3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.8,4 L14.2,4 C15.3045695,4 16.2,4.8954305 16.2,6 L16.2,8.8 L1.8,8.8 L1.8,6 C1.8,4.8954305 2.6954305,4 3.8,4 Z" id="Rectangle-8" transform="translate(9.000000, 6.400000) rotate(-180.000000) translate(-9.000000, -6.400000) "></path>
+                        <path d="M4.8,8.8 L4.2,10" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M13.2,8.8 L13.8,10" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.4,1.4 C4.4,-0.4 2,-0.4 2,1.4 C2,1.4 2,2.26666667 2,4" id="Line-4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>person icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Viewing-complete-student-pages" transform="translate(-75.000000, -30.000000)" fill="#FFFFFF" stroke="#AFAFAF">
+            <g id="Viewing-confirmed">
+                <g id="person-icon" transform="translate(76.000000, 31.000000)">
+                    <path d="M5.0004004,4 C6.1047047,4 7,3.10452543 7,2 C7,0.895474569 6.1047047,0 5.0004004,0 C3.8960961,0 3,0.895474569 3,2 C3,3.10452543 3.8960961,4 5.0004004,4 Z" id="Stroke-1"></path>
+                    <path d="M7.79015505,6.02402008 C6.91630288,5.82542047 6.08685835,6.92360566 5,6.92360566 C3.91314165,6.92360566 3.08369712,5.82542047 2.20909228,6.02402008 C1.16513623,6.26186863 0,7.96134749 0,9.3350602 C0,10.4450201 2.44919464,11 5,11 C7.55080536,11 10,10.4450201 10,9.3350602 C10,7.96134749 8.83411109,6.26186863 7.79015505,6.02402008 Z" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

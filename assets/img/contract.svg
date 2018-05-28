@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>contract icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="beds/bathrooms/contract-description/moving-date" transform="translate(-85.000000, -5.000000)" stroke="#A7A7A7">
+            <g id="contract" transform="translate(86.000000, 0.000000)">
+                <g id="contract-icon-grey" transform="translate(0.000000, 6.000000)">
+                    <path d="M9,12 L2,12 C0.8954305,12 1.3527075e-16,11.1045695 0,10 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L9,0 C10.1045695,-2.02906125e-16 11,0.8954305 11,2 L11,4.3752 L11,10 C11,11.1045695 10.1045695,12 9,12 Z" id="Page-1"></path>
+                    <path d="M3,3.5 L4.8400785,3.5" id="Line"></path>
+                    <path d="M3,6 L8,6" id="Line"></path>
+                    <path d="M3,8.5 L7.180157,8.5" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
